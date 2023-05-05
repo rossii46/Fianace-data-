@@ -1,0 +1,9 @@
+[Companies]
+Facebook, Inc. = FB
+Tesla, Inc. = TSLA
+JPMorgan Chase & Co. = JPM
+Procter & Gamble Co. = PG
+Visa Inc. = V
+
+[Database]
+db_name = finance_database.db
